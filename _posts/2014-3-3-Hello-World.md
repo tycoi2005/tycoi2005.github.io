@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Play dino with me!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+After trying to play dino with camera using mediapine. I decided to share this fun for my friends.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I copy google dino and inject mediapipe control. This is the result: [you can click to play](/games/dino)
