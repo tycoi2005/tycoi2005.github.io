@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Jaken
+I'm Jaken Ty
 
 
 ### Contact me
